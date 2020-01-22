@@ -1,9 +1,9 @@
 # Museum Of Candy 
 
 Museum Of Candy is a landing page for a fictionnal museum called : Museum Of Candy. 
-The website is fully responsive and can be watch both mobile and desktop computer. 
+The website is fully responsive and can be watch from both mobile and desktop computer. 
 
-Tech : 
+*Tech : 
 - HTML
 - CSS
 - JS 
